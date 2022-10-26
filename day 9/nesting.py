@@ -36,4 +36,4 @@ travel_list = [
     }
 ]
 
-print(travel_list[0][0])
+print(travel_list[0])
